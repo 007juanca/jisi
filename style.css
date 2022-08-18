@@ -1,0 +1,28 @@
+a 
+{text-decoration: none; color:white}
+table
+{background-color: #28242c ;color: white;}
+td 
+{text-align: center; font-family: Helvetica; font-weight: bold; font-size: 150%; margin:150px; background-color:black; color:white;}
+h1
+{ font-family: Helvetica; text-align: center; font-weight: bold; color: white;}
+h2
+{font-family: Helvetica; font-weight: bold; text-align: center; font-size: 130%; color:white;}
+h3,h4 
+{font-family: Helvetica; font-weight: bold;}
+p 
+{font-family: Helvetica;}
+#precio 
+{ font-family: Helvetica; font-weight: bold; text-align: center; font-size: 150%; background-color:#f7b830;color:white;}
+button
+{ font-family: Helvetica; font-weight: bold; text-align: center; font-size: 130%; background-color:#ad1818;color:white;}
+#volverr
+{width:200px; height: 40px; font-family: Helvetica; text-decoration: none; text-align: center; font-size: 100%; background-color:black; color:white}
+#guardarr
+{width:200px; height: 40px; font-weight: bold; font-family: Helvetica; text-decoration: none; text-align: center; font-size: 100%; background-color:black; color:white}
+#guardar2
+{width:180px; height: 40px; background-color: black; color: white}
+#dato
+{width:180px; height:45px; }
+#cabezatabla
+{width:180px; height: 45px; background-color: #3a3a3a ;}
